@@ -7,6 +7,26 @@ Proyek ini dibangun sebagai tugas proyek akhir Ujian Akhir Semester (UAS) mata k
 - **NIM:** 312410474
 - **Kelas:** TI.24.A5 / I241E
 
+UAS_Web2_NIM_Nama/
+├── 📂 backend-api/           
+│   ├── 📂 app/
+│   ├── 📂 public/
+│   ├── 📂 system/
+│   ├── 📂 writable/
+│   ├── 📄 .env
+│   └── ... (file CI4 lainnya)
+│
+├── 📂 frontend-spa/          
+│   ├── 📂 assets/
+│   │   └── 📂 js/
+│   │       ├── 📂 components/ (Landing.js, Login.js, Dashboard.js)
+│   │       └── 📄 app.js
+│   ├── 📄 index.html
+│   └── 📄 style.css
+│
+├── 📄 uas_ereport.sql         
+└── 📄 README.md              
+
 ---
 
 ## 🛠️ Ekosistem Teknologi
