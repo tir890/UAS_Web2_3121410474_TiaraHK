@@ -80,16 +80,17 @@ Semua jalur mutasi data Admin (`PUT` dan `DELETE`) diproteksi ketat oleh `AuthFi
 ### 1. Halaman Utama Warga (Landing Page)
 
 Masyarakat dapat mengirimkan laporan pengaduan secara publik tanpa perlu melakukan login terlebih dahulu.
-
+![halaman pengaduan warga](https://github.com/tir890/UAS_Web2_3121410474_TiaraHK/blob/cdc8e717e109745cec61b969e09aeb4cf65d892d/frontend-spa/assets/img/halaman-pengaduan.png)
 
 ### 2. Portal Login Petugas / Admin
 
 Form otentikasi aman untuk memverifikasi akun petugas sebelum masuk ke sistem kontrol data.
-
+![halaman login](https://github.com/tir890/UAS_Web2_3121410474_TiaraHK/blob/cdc8e717e109745cec61b969e09aeb4cf65d892d/frontend-spa/assets/img/login-admin.png)
 
 ### 3. Dashboard Kontrol Admin (Bertenaga TailwindCSS & Chart.js)
 
 Panel khusus administrator untuk melihat analitik laporan berbentuk grafik, memperbarui status aduan, maupun menghapus laporan.
+![halaman dashboard admin](https://github.com/tir890/UAS_Web2_3121410474_TiaraHK/blob/cdc8e717e109745cec61b969e09aeb4cf65d892d/frontend-spa/assets/img/halaman-admin.png)
 
 
 ---
