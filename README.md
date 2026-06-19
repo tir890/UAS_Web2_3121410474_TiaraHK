@@ -131,5 +131,4 @@ php spark serve
 
 ## 🔗 Link Tautan Penting
 
-* **Link Video Presentasi Proyek (YouTube):** [Isi Link Video Youtube Kamu di Sini]
-* **Link Website Demo (Jika di-hosting):** Berjalan di Lokal Komputer
+* **Link Video Presentasi Proyek (YouTube):** [Link Video Youtube]
