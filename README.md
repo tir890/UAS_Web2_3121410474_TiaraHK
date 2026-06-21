@@ -110,7 +110,7 @@ Panel khusus administrator untuk melihat analitik laporan berbentuk grafik, memp
 
 Menggunakan link url untuk menambahkan gambar sebagai bukti pengaduan.
 
-![bukti gambar]()
+![bukti gambar](https://github.com/tir890/UAS_Web2_3121410474_TiaraHK/blob/b5d527393facd71d7120bb994c0560f48a107b9d/frontend-spa/assets/img/fitur-bukti-gambar.png)
 
 ---
 
