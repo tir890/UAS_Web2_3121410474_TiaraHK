@@ -5,7 +5,7 @@ Proyek ini dibangun sebagai tugas proyek akhir Ujian Akhir Semester (UAS) mata k
 ## 👤 Identitas Mahasiswa
 - **Nama:** Tiara Hayatul Khoir
 - **NIM:** 312410474
-- **Kelas:** TI.24.A5 / I241E
+- **Kelas:** TI.24.A5
 
 ---
 
@@ -15,6 +15,13 @@ Proyek ini dibangun sebagai tugas proyek akhir Ujian Akhir Semester (UAS) mata k
 - **UI Framework:** TailwindCSS via CDN
 - **Data Transfer:** Axios HTTP Library (Asynchronous Request & Token Interceptors)
 - **Basis Data:** MySQL / MariaDB
+
+---
+
+## 🚀 Fitur Tambahan & Pengembangan Mandiri (Value-Added Features)
+Selain memenuhi seluruh kriteria dasar kompetensi teknis yang diwajibkan dalam panduan tugas, aplikasi ini telah dikembangkan lebih lanjut secara mandiri dengan menambahkan fitur krusial guna meningkatkan validitas data pelaporan:
+1. **Sistem Klasifikasi Kategori Aduan:** Warga dapat memilih jenis pengaduan (Infrastruktur, Keamanan, Lingkungan, Sosial) melalui dropdown dinamis untuk mempermudah manajemen arsip petugas.
+2. **Gambar Bukti Otomatis (URL Render):** Penambahan fitur penyertaan bukti foto fisik di lapangan menggunakan metode pengiriman *Direct URL Tautan Gambar*. Metode ini sengaja dipilih guna menjaga efisiensi penyimpanan database serta mengamankan lalu lintas data dari potensi gangguan *CORS file preflight policy* pada arsitektur terpisah.
 
 ---
 
@@ -99,6 +106,11 @@ Panel khusus administrator untuk melihat analitik laporan berbentuk grafik, memp
 
 ![halaman dashboard admin](https://github.com/tir890/UAS_Web2_3121410474_TiaraHK/blob/cdc8e717e109745cec61b969e09aeb4cf65d892d/frontend-spa/assets/img/halaman-admin.png)
 
+### 4. Penambahan Fitur Bukti Gambar
+
+Menggunakan link url untuk menambahkan gambar sebagai bukti pengaduan.
+
+![bukti gambar]()
 
 ---
 
